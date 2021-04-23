@@ -6,6 +6,7 @@ Introduction to Azure Function and Azure Storage and how to bind them : create a
 
 - Node.js : image-thumbnail, nodemailer 
 - Azure 
+- Windows environment
 
 #### Structure  
 
